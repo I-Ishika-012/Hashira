@@ -145,7 +145,7 @@ int main() {
     cin.tie(nullptr);
 
     // read the whole file "input.json"
-    ifstream file("inputt.json");
+    ifstream file("input.json");
     if (!file) {
         cerr << "Could not open input.json\n";
         return 1;
