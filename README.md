@@ -1,5 +1,6 @@
 # Hashira
-Online Assessment Code Repo
+
+### Online Assessment Code Repo
 
 #### The code file is named as main.cpp, initially testing it against the first test case, please change the file name to test it against the second test case!
 
